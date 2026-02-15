@@ -60,7 +60,25 @@ Python · FastAPI · LangGraph · OpenAI · GCP · AWS · Terraform · SQL · Ve
 
 ## Product Philosophy
 
-Most AI products fail because they treat AI as a feature.
+AI is not a feature layer.
+It is the execution layer.
+
+Traditional SaaS:
+User → UI → Backend → Database
+
+AI-native SaaS:
+```mermaid
+flowchart LR
+    U[User] --> O[Orchestrator]
+    O --> A[Agent Registry]
+    A --> M[Memory Layer]
+    A --> T[Tooling Layer]
+    M --> A
+    T --> A
+    A --> Act[Action / Execution]
+
+Intelligence is not an endpoint.
+It is a loop.
 
 AI-native companies are designed around:
 - orchestration
