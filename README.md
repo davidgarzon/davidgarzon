@@ -1,10 +1,11 @@
-# David Garzón
-### AI-Native Product & Platform Architect
+# David Garzón  
+### AI-Native Systems Architect
 
 I design and build AI-first systems.
 
+AI-native product & platform architect.  
 Former VP Product & Technology.  
-Builder of multi-agent platforms, scoring engines and AI-driven SaaS architectures.
+Builder of multi-agent platforms, scoring engines and intelligent SaaS infrastructures.
 
 Barcelona 🇪🇸
 
@@ -21,23 +22,26 @@ I design systems.
 - AI-native product discovery & prioritization frameworks
 - Automation systems across marketing, sales & operations
 
-AI is not an add-on. It is the core primitive.
+AI is not an add-on.  
+It is the core primitive.
 
 ---
 
 ## Current Open Work
 
 🔹 **multi-agent-business-operator**  
-Open framework for orchestrating specialized AI agents with memory & tool registries.
+Modular framework for orchestrating specialized AI agents with memory and tool registries.
 
 🔹 **digital-presence-score-engine**  
-Weighted scoring model turning digital signals into executable intelligence.
+Weighted scoring model transforming digital signals into executable intelligence.
 
 🔹 **saas-platform-blueprint**  
 Reference architecture for AI-native SaaS platforms.
 
 🔹 **ai-product-discovery-kit**  
-LLM-powered discovery system for structured product thinking.
+LLM-powered system for structured product discovery and prioritization.
+
+🚧 Work in progress — repositories will progressively become public.
 
 ---
 
@@ -60,13 +64,15 @@ Python · FastAPI · LangGraph · OpenAI · GCP · AWS · Terraform · SQL · Ve
 
 ## Product Philosophy
 
-AI is not a feature layer.
+AI is not a feature layer.  
 It is the execution layer.
 
 Traditional SaaS:
+
 User → UI → Backend → Database
 
 AI-native SaaS:
+
 ```mermaid
 flowchart LR
     U[User] --> O[Orchestrator]
@@ -76,18 +82,19 @@ flowchart LR
     M --> A
     T --> A
     A --> Act[Action / Execution]
+```
 
-Intelligence is not an endpoint.
+Intelligence is not an endpoint.  
 It is a loop.
 
 AI-native companies are designed around:
-- orchestration
-- memory
-- decision layers
-- autonomous execution loops
+- Orchestration
+- Memory
+- Decision layers
+- Autonomous execution cycles
 
 The future is not chatbots.  
-It’s operational intelligence.
+It is operational intelligence.
 
 ---
 
@@ -105,7 +112,7 @@ I explore:
 
 ## Contact
 
-LinkedIn: linkedin.com/in/davidgarzon  
+LinkedIn: https://linkedin.com/in/davidgarzon  
 Email: davidgarzon@gmail.com
 
 ---
