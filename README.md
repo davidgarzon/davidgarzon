@@ -1,4 +1,4 @@
-# David Garzón  
+# David Garzón - AI-Native Product Leader
 ### AI-Native Systems Architect
 
 I design and build AI-first systems.
