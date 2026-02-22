@@ -35,28 +35,49 @@ It is the execution layer.
 
 ---
 
-## Currently Building
+## Selected Work
 
-🔹 **AteneAI** — AI Search Visibility & AEO Pulse  
+### 🔹 AteneAI  
+AI Search Visibility & AEO Pulse  
 https://ateneai.com  
 
-🔹 **Multi-Agent Business Operator**  
+A private AI venture focused on search visibility in the LLM era.
+
+---
+
+### 🔹 Multi-Agent Business Operator  
 Operational AI orchestration framework  
 https://github.com/davidgarzon/multi-agent-business-operator  
 
-🔹 **ComoTrabajan**  
+Foundation for building agent-based operational systems.
+
+---
+
+### 🔹 PRD Decision Engine  
+Structured PRD evaluation system with scoring & readiness signals  
+https://github.com/davidgarzon/prd-decision-engine  
+
+Transforms product requirements into measurable decision artifacts.
+
+---
+
+### 🔹 Experiment CRM  
+Decision-first experiment tracker for product teams  
+https://github.com/davidgarzon/experiment-crm  
+
+Append-only decision logs to prevent learning decay.
+
+---
+
+### 🔹 ComoTrabajan  
 Founder & operator interviews  
 https://comotrabajan.com  
+
+Long-form conversations on how companies are actually built.
 
 ---
 
 ## Current Open Work
-
-🔹 **PRD Reviewer**  
-AI-powered structured PRD critic for product teams (coming soon)
-
-🔹 **Experiment CRM**  
-Lightweight experimentation OS for product managers (coming soon)
 
 🔹 **Digital Presence Score Engine**  
 Weighted scoring model turning digital signals into decision intelligence (ongoing)
@@ -99,7 +120,7 @@ AI-native companies are designed around:
 
 Python · FastAPI · OpenAI · LangGraph · Postgres · Vector DBs · GCP · AWS · Terraform
 
-I care more about system design than stacks.
+Stack is secondary. System design is primary.
 
 ---
 
