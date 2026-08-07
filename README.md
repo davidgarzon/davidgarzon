@@ -50,6 +50,8 @@ Rebuilt in **15 days with 2 people**. One structural change: the agent drafts, a
 - In customer-facing AI, 95% is a failing grade. Below ~98% you route to a human.
 - We hit 75-78% *because* we never removed the people.
 
+This was not the first time. In 2020 I built an ML-based chatbot for a wedding marketplace when COVID collapsed lead volume by over 90%. It qualified couples and matched them to vendors, and it recovered 70% of the lost leads. Same principle, five years earlier: the model handles the volume, a human owns the edge cases.
+
 ---
 
 ## Selected Work
